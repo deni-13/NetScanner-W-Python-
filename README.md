@@ -1,4 +1,4 @@
-# NetScanner is a Cyber Securşty Tool
+# NetScanner is a Cyber Security Tool
 My netScanner !!
 It was made by myself in time that i am keen on security :)
 
